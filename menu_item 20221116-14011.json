@@ -1,0 +1,54 @@
+[
+	{
+		"icon": "bi bi-folder",
+		"name": "Diiwaanka"
+	},
+	{
+		"icon": "bi bi-search",
+		"name": "Bogga Raadinta"
+	},
+	{
+		"icon": "bi bi-plus",
+		"name": "Diiwaangeli Meherad"
+	},
+	{
+		"icon": "bi bi-book",
+		"name": "Diiwaanka Meheradaha"
+	},
+	{
+		"icon": null,
+		"name": null
+	},
+	{
+		"icon": "bi bi-search",
+		"name": "Isticmaale"
+	},
+	{
+		"icon": "bi bi-pencil-square",
+		"name": "Is Qor (is sajil)"
+	},
+	{
+		"icon": null,
+		"name": null
+	},
+	{
+		"icon": null,
+		"name": null
+	},
+	{
+		"icon": null,
+		"name": null
+	},
+	{
+		"icon": null,
+		"name": null
+	},
+	{
+		"icon": null,
+		"name": null
+	},
+	{
+		"icon": "bi-unlock-fill",
+		"name": "Soo Gal / Ka Bax"
+	}
+]
